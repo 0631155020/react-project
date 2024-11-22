@@ -9,7 +9,7 @@ Simple react project template that includes following features
 * Page routing Routing
 
 ## How to use
-    Clone the project from https://github.com/sanoop-jose/react-project-template.git
+    Clone the project 
 
     cd react-project-template
     npm install
